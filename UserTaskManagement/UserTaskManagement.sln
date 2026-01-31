@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserTaskManagementAPI", "UserTaskManagementAPI\UserTaskManagementAPI.csproj", "{BEF94697-4620-415A-A3FB-612173DD41EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{3036DB9C-AAF5-42A3-8641-BC8C2C4FB953}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{E87FE328-026C-4F34-AD01-A63AED463FF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEF94697-4620-415A-A3FB-612173DD41EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF94697-4620-415A-A3FB-612173DD41EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF94697-4620-415A-A3FB-612173DD41EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF94697-4620-415A-A3FB-612173DD41EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3036DB9C-AAF5-42A3-8641-BC8C2C4FB953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3036DB9C-AAF5-42A3-8641-BC8C2C4FB953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3036DB9C-AAF5-42A3-8641-BC8C2C4FB953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3036DB9C-AAF5-42A3-8641-BC8C2C4FB953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E87FE328-026C-4F34-AD01-A63AED463FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E87FE328-026C-4F34-AD01-A63AED463FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E87FE328-026C-4F34-AD01-A63AED463FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E87FE328-026C-4F34-AD01-A63AED463FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "tDgj4E2LVnC24V5bmIZu7nlL9fKN2oxV3D2ZtJweOGQ=",
+  "Source": "UserTaskManagementAPI",
+  "BasePath": "_content/UserTaskManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
